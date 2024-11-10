@@ -1,1 +1,1 @@
-"H:\krkrext\Xp3Pack.exe" data
+Xp3Pack.exe data
