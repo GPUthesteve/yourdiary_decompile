@@ -1,0 +1,13 @@
+﻿index,id,buid,vcid,name,lastname,order,relate
+0,YUA,CA,YUA,ゆあ,,10,50
+1,SAYUKI,CB,SYK,紗雪,綾瀬,6,70
+2,YUUHI,CC,YUH,夕陽,深菜川,4,10
+3,KANADE,CD,KND,かなで,広崎,8,40
+4,MISUZU,CE,MSZ,美鈴,,3,60
+5,KAHO,CF,KAH,香穂,榎本,7,90
+6,NATSUKI,CG,NTK,奈月,藤村,9,20
+7,HIBIKI,CH,HBK,響,広崎,2,30
+8,CHITOSE,CI,CTS,千歳,深菜川,1,80
+9,HOTORI,CQ,HTR,ほとり,一ノ瀬,5,45
+10,NPC_OTHER,OT,NPC,,,,
+#以下デバッグ用,,,,,,,
